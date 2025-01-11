@@ -72,12 +72,12 @@ h1 {
 }
 
 .btn {
-  background-color: rgb(61, 169, 133);
+  background-color: rgba(61, 129, 104, 1);
   padding: 15px 62px;
   display: flex;
   gap: 11.61px;
   &:active {
-    background-color: rgb(12, 94, 67);
+    background-color: rgba(26, 64, 50, 1);
   }
 }
 /* Main start */
